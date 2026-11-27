@@ -1,0 +1,6 @@
+{
+  "name": "AUTOSAT LIMITED",
+  "description": "Premium cars. Delivered across Nigeria. Luxury and foreign-used automotive dealership in Ikeja, Lagos (RC 1643628).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

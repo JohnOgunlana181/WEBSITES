@@ -1,0 +1,2470 @@
+[
+  {
+    "id": "mercedes-gle-450-2022",
+    "brand": "Mercedes-Benz",
+    "model": "GLE 450 4MATIC AMG Line",
+    "year": 2022,
+    "price": 108500000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "engine": "3.0L Inline-6 Turbo EQ Boost",
+    "horsepower": "362 hp",
+    "drivetrain": "4MATIC AWD",
+    "mileage": 21400,
+    "seats": 5,
+    "vin": "4JGFB5KB8NA612091",
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Panoramic Sunroof",
+      "Burmester Surround Audio",
+      "360° Camera",
+      "Nappa Leather",
+      "Air Suspension",
+      "Wireless Charging",
+      "Head-Up Display"
+    ],
+    "colors": [
+      {
+        "name": "Obsidian Black",
+        "hex": "#141619",
+        "modelOverrideHex": "#141619",
+        "images": [
+          "/images/cars/mercedes-gle-450-2022-ext-1.jpg",
+          "/images/cars/mercedes-gle-450-2022-ext-2.jpg",
+          "/images/cars/mercedes-gle-450-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Polar White",
+        "hex": "#EFECE6",
+        "modelOverrideHex": "#EFECE6",
+        "images": []
+      },
+      {
+        "name": "Selenite Grey",
+        "hex": "#646970",
+        "modelOverrideHex": "#646970",
+        "images": []
+      },
+      {
+        "name": "Emerald Green",
+        "hex": "#1B3B2B",
+        "modelOverrideHex": "#1B3B2B",
+        "images": []
+      },
+      {
+        "name": "Cavansite Blue",
+        "hex": "#1D2F4A",
+        "modelOverrideHex": "#1D2F4A",
+        "images": []
+      },
+      {
+        "name": "Mojave Silver",
+        "hex": "#A89F91",
+        "modelOverrideHex": "#A89F91",
+        "images": []
+      },
+      {
+        "name": "Hyacinth Red",
+        "hex": "#8E1B24",
+        "modelOverrideHex": "#8E1B24",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/mercedes-gle-450-2022-int.jpg",
+    "images": [
+      "/images/cars/mercedes-gle-450-2022-ext-1.jpg",
+      "/images/cars/mercedes-gle-450-2022-ext-2.jpg",
+      "/images/cars/mercedes-gle-450-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Accident-free US-spec Nigerian used GLE 450 4MATIC with clean Carfax, customs duty fully paid, and zero faults. Ready for physical inspection at our Unity Road showroom.",
+    "status": "available",
+    "isFeatured": true,
+    "isLatest": true,
+    "rentalDailyRate": 280000,
+    "rentalWeeklyRate": 1750000,
+    "specs": {
+      "customsDutyStatus": "Nigerian Customs Duty Paid",
+      "sunroof": "Panoramic Sunroof",
+      "cameras": "360° Surround View Camera",
+      "upholstery": "Nappa Leather"
+    }
+  },
+  {
+    "id": "range-rover-autobiography-2023",
+    "brand": "Range Rover",
+    "model": "Autobiography LWB P530",
+    "year": 2023,
+    "price": 245000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "4.4L Twin-Turbo V8",
+    "horsepower": "523 hp",
+    "drivetrain": "All-Wheel Drive",
+    "mileage": 9800,
+    "seats": 5,
+    "vin": "SALGA2SE0PA109442",
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Executive Rear Seating",
+      "Meridian Signature Sound",
+      "All-Wheel Steering",
+      "Panoramic Roof",
+      "Deployable Side Steps",
+      "Soft-Close Doors",
+      "Cool Box"
+    ],
+    "colors": [
+      {
+        "name": "British Racing Green",
+        "hex": "#173324",
+        "modelOverrideHex": "#173324",
+        "images": [
+          "/images/cars/range-rover-autobiography-2023-ext-1.jpg",
+          "/images/cars/range-rover-autobiography-2023-ext-2.jpg",
+          "/images/cars/range-rover-autobiography-2023-int.jpg"
+        ]
+      },
+      {
+        "name": "Santorini Black",
+        "hex": "#111315",
+        "modelOverrideHex": "#111315",
+        "images": []
+      },
+      {
+        "name": "Fuji White",
+        "hex": "#F2F1EC",
+        "modelOverrideHex": "#F2F1EC",
+        "images": []
+      },
+      {
+        "name": "Silicon Silver",
+        "hex": "#8B8E90",
+        "modelOverrideHex": "#8B8E90",
+        "images": []
+      },
+      {
+        "name": "Charente Grey",
+        "hex": "#595B5E",
+        "modelOverrideHex": "#595B5E",
+        "images": []
+      },
+      {
+        "name": "Batumi Gold",
+        "hex": "#A68C64",
+        "modelOverrideHex": "#A68C64",
+        "images": []
+      },
+      {
+        "name": "Firenze Red",
+        "hex": "#8A1C22",
+        "modelOverrideHex": "#8A1C22",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/range-rover-autobiography-2023-int.jpg",
+    "images": [
+      "/images/cars/range-rover-autobiography-2023-ext-1.jpg",
+      "/images/cars/range-rover-autobiography-2023-ext-2.jpg",
+      "/images/cars/range-rover-autobiography-2023-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Flagship LWB Autobiography in Belgravia Green over hand-stitched Perlino/Cognac leather. Full Nigerian Customs clearance verified.",
+    "status": "available",
+    "isFeatured": true,
+    "isLatest": true,
+    "rentalDailyRate": 450000,
+    "rentalWeeklyRate": 2800000,
+    "specs": {
+      "customsDutyStatus": "Nigerian Customs Duty Paid",
+      "sunroof": "Panoramic Sunroof"
+    }
+  },
+  {
+    "id": "mercedes-s580-2022",
+    "brand": "Mercedes-Benz",
+    "model": "S 580 4MATIC Executive",
+    "year": 2022,
+    "price": 172000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "Luxury",
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "engine": "4.0L V8 Biturbo Mild-Hybrid",
+    "horsepower": "496 hp",
+    "drivetrain": "4MATIC AWD",
+    "mileage": 16200,
+    "seats": 5,
+    "vin": "W1K6G7GB5NA084112",
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "MBUX Rear Tablet",
+      "3D Instrument Cluster",
+      "Massage Seats",
+      "4D Burmester Audio",
+      "Active Ambient Lighting",
+      "Night View Assist"
+    ],
+    "colors": [
+      {
+        "name": "Selenite Grey",
+        "hex": "#5F646B",
+        "modelOverrideHex": "#5F646B",
+        "images": [
+          "/images/cars/mercedes-s580-2022-ext-1.jpg",
+          "/images/cars/mercedes-s580-2022-ext-2.jpg",
+          "/images/cars/mercedes-s580-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Obsidian Black",
+        "hex": "#141619",
+        "modelOverrideHex": "#141619",
+        "images": []
+      },
+      {
+        "name": "Diamond White",
+        "hex": "#F3F1EB",
+        "modelOverrideHex": "#F3F1EB",
+        "images": []
+      },
+      {
+        "name": "Nautic Blue",
+        "hex": "#1C2E4A",
+        "modelOverrideHex": "#1C2E4A",
+        "images": []
+      },
+      {
+        "name": "High-Tech Silver",
+        "hex": "#B9BDC2",
+        "modelOverrideHex": "#B9BDC2",
+        "images": []
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#202226",
+        "modelOverrideHex": "#202226",
+        "images": []
+      },
+      {
+        "name": "Rubellite Red",
+        "hex": "#6E1826",
+        "modelOverrideHex": "#6E1826",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/mercedes-s580-2022-int.jpg",
+    "images": [
+      "/images/cars/mercedes-s580-2022-ext-1.jpg",
+      "/images/cars/mercedes-s580-2022-ext-2.jpg",
+      "/images/cars/mercedes-s580-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Executive flagship saloon engineered for quiet comfort across Victoria Island, Ikoyi, and Abuja. Clean title, full service history.",
+    "status": "available",
+    "isFeatured": true,
+    "isLatest": true,
+    "rentalDailyRate": 380000,
+    "rentalWeeklyRate": 2350000,
+    "specs": {}
+  },
+  {
+    "id": "toyota-land-cruiser-300-2023",
+    "brand": "Toyota",
+    "model": "Land Cruiser 300 VX-R Twin Turbo",
+    "year": 2023,
+    "price": 158000000,
+    "negotiable": false,
+    "condition": "Brand New",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "3.5L V6 Twin-Turbo",
+    "horsepower": "409 hp",
+    "drivetrain": "Full-Time 4WD",
+    "mileage": 120,
+    "seats": 7,
+    "vin": "JTMAB7AJ6P4028711",
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Multi-Terrain Monitor",
+      "JBL 14-Speaker Audio",
+      "Ventilated Seats",
+      "Cool Box",
+      "Rear Entertainment Screens",
+      "Crawl Control"
+    ],
+    "colors": [
+      {
+        "name": "Attitude Black",
+        "hex": "#15171A",
+        "modelOverrideHex": "#15171A",
+        "images": [
+          "/images/cars/toyota-land-cruiser-300-2023-ext-1.jpg",
+          "/images/cars/toyota-land-cruiser-300-2023-ext-2.jpg",
+          "/images/cars/toyota-land-cruiser-300-2023-int.jpg"
+        ]
+      },
+      {
+        "name": "Precious White Pearl",
+        "hex": "#F0EFEA",
+        "modelOverrideHex": "#F0EFEA",
+        "images": []
+      },
+      {
+        "name": "Silver Metallic",
+        "hex": "#B2B6BC",
+        "modelOverrideHex": "#B2B6BC",
+        "images": []
+      },
+      {
+        "name": "Grey Metallic",
+        "hex": "#5C6066",
+        "modelOverrideHex": "#5C6066",
+        "images": []
+      },
+      {
+        "name": "Dark Blue Mica",
+        "hex": "#1E2D45",
+        "modelOverrideHex": "#1E2D45",
+        "images": []
+      },
+      {
+        "name": "Dark Red Mica Metallic",
+        "hex": "#6E1D24",
+        "modelOverrideHex": "#6E1D24",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/toyota-land-cruiser-300-2023-int.jpg",
+    "images": [
+      "/images/cars/toyota-land-cruiser-300-2023-ext-1.jpg",
+      "/images/cars/toyota-land-cruiser-300-2023-ext-2.jpg",
+      "/images/cars/toyota-land-cruiser-300-2023-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Zero-mileage GCC-spec Land Cruiser 300 VX-R built for Nigerian roads and long-distance executive travel. Duty paid and ready for pickup.",
+    "status": "available",
+    "isFeatured": true,
+    "isLatest": true,
+    "rentalDailyRate": 320000,
+    "rentalWeeklyRate": 1950000,
+    "specs": {
+      "customsDutyStatus": "Nigerian Customs Duty Paid"
+    }
+  },
+  {
+    "id": "lexus-lx-600-2022",
+    "brand": "Lexus",
+    "model": "LX 600 F Sport Handling",
+    "year": 2022,
+    "price": 182000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "3.4L V6 Twin-Turbo",
+    "horsepower": "409 hp",
+    "drivetrain": "4WD",
+    "mileage": 14500,
+    "seats": 7,
+    "vin": "JTJMB7AX5N4019382",
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Mark Levinson 25-Speaker Audio",
+      "Fingerprint Start",
+      "Adaptive Variable Suspension",
+      "22-inch Forged Wheels",
+      "Head-Up Display"
+    ],
+    "colors": [
+      {
+        "name": "Caviar",
+        "hex": "#181A1D",
+        "modelOverrideHex": "#181A1D",
+        "images": [
+          "/images/cars/lexus-lx-600-2022-ext-1.jpg",
+          "/images/cars/lexus-lx-600-2022-ext-2.jpg",
+          "/images/cars/lexus-lx-600-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Eminent White Pearl",
+        "hex": "#F1F0EA",
+        "modelOverrideHex": "#F1F0EA",
+        "images": []
+      },
+      {
+        "name": "Nori Green Pearl",
+        "hex": "#2A392C",
+        "modelOverrideHex": "#2A392C",
+        "images": []
+      },
+      {
+        "name": "Manganese Luster",
+        "hex": "#5C6166",
+        "modelOverrideHex": "#5C6166",
+        "images": []
+      },
+      {
+        "name": "Atomic Silver",
+        "hex": "#9A9FA6",
+        "modelOverrideHex": "#9A9FA6",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/lexus-lx-600-2022-int.jpg",
+    "images": [
+      "/images/cars/lexus-lx-600-2022-ext-1.jpg",
+      "/images/cars/lexus-lx-600-2022-ext-2.jpg",
+      "/images/cars/lexus-lx-600-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Immaculate Nigerian used LX 600 F Sport with active height control, verified mileage, and complete customs documents.",
+    "status": "available",
+    "isFeatured": true,
+    "isLatest": true,
+    "specs": {
+      "customsDutyStatus": "Nigerian Customs Duty Paid"
+    }
+  },
+  {
+    "id": "aston-martin-db11-2021",
+    "brand": "Aston Martin",
+    "model": "DB11 V8 Volante Coupe",
+    "year": 2021,
+    "price": 195000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "Coupe",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "4.0L Twin-Turbo V8",
+    "horsepower": "528 hp",
+    "drivetrain": "Rear-Wheel Drive",
+    "mileage": 8900,
+    "seats": 4,
+    "vin": "SCFRMFAW3MGL08144",
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Bang & Olufsen BeoSound",
+      "Carbon Fibre Trim",
+      "Alcantara Headliner",
+      "360° Bird's-Eye Camera",
+      "Forged Satin Wheels"
+    ],
+    "colors": [
+      {
+        "name": "Satin Champagne Bronze",
+        "hex": "#9E825B",
+        "modelOverrideHex": "#9E825B",
+        "images": [
+          "/images/cars/aston-martin-db11-2021-ext-1.jpg",
+          "/images/cars/aston-martin-db11-2021-ext-2.jpg",
+          "/images/cars/aston-martin-db11-2021-int.jpg"
+        ]
+      },
+      {
+        "name": "Jet Black",
+        "hex": "#131518",
+        "modelOverrideHex": "#131518",
+        "images": []
+      },
+      {
+        "name": "Magnetic Silver",
+        "hex": "#8A8F96",
+        "modelOverrideHex": "#8A8F96",
+        "images": []
+      },
+      {
+        "name": "Skyfall Silver",
+        "hex": "#A9AEB5",
+        "modelOverrideHex": "#A9AEB5",
+        "images": []
+      },
+      {
+        "name": "China Grey",
+        "hex": "#767A7E",
+        "modelOverrideHex": "#767A7E",
+        "images": []
+      },
+      {
+        "name": "Hyper Red",
+        "hex": "#9C1922",
+        "modelOverrideHex": "#9C1922",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/aston-martin-db11-2021-int.jpg",
+    "images": [
+      "/images/cars/aston-martin-db11-2021-ext-1.jpg",
+      "/images/cars/aston-martin-db11-2021-ext-2.jpg",
+      "/images/cars/aston-martin-db11-2021-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Rare collector-grade Aston Martin DB11 finished in Satin Champagne Bronze. Hand-inspected by AUTOSAT specialist technicians.",
+    "status": "available",
+    "isFeatured": true,
+    "isLatest": true,
+    "specs": {
+      "cameras": "360° Surround View Camera"
+    }
+  },
+  {
+    "id": "bmw-x7-m50i-2022",
+    "brand": "BMW",
+    "model": "X7 M50i xDrive",
+    "year": 2022,
+    "price": 114000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "4.4L TwinPower Turbo V8",
+    "horsepower": "523 hp",
+    "drivetrain": "xDrive AWD",
+    "mileage": 24100,
+    "seats": 7,
+    "vin": "5UXCX6C04N9K20944",
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Sky Lounge Panoramic Roof",
+      "Harman Kardon Audio",
+      "5-Zone Climate Control",
+      "Captain Chairs",
+      "Laserlight Headlamps"
+    ],
+    "colors": [
+      {
+        "name": "Black Sapphire",
+        "hex": "#15171A",
+        "modelOverrideHex": "#15171A",
+        "images": [
+          "/images/cars/bmw-x7-m50i-2022-ext-1.jpg",
+          "/images/cars/bmw-x7-m50i-2022-ext-2.jpg",
+          "/images/cars/bmw-x7-m50i-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Mineral White",
+        "hex": "#F1EFEA",
+        "modelOverrideHex": "#F1EFEA",
+        "images": []
+      },
+      {
+        "name": "Arctic Grey",
+        "hex": "#545A63",
+        "modelOverrideHex": "#545A63",
+        "images": []
+      },
+      {
+        "name": "Phytonic Blue",
+        "hex": "#1E3A5F",
+        "modelOverrideHex": "#1E3A5F",
+        "images": []
+      },
+      {
+        "name": "Manhattan Green",
+        "hex": "#3A443C",
+        "modelOverrideHex": "#3A443C",
+        "images": []
+      },
+      {
+        "name": "Tanzanite Blue II",
+        "hex": "#172542",
+        "modelOverrideHex": "#172542",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/bmw-x7-m50i-2022-int.jpg",
+    "images": [
+      "/images/cars/bmw-x7-m50i-2022-ext-1.jpg",
+      "/images/cars/bmw-x7-m50i-2022-ext-2.jpg",
+      "/images/cars/bmw-x7-m50i-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Three-row luxury performance SUV with M Sport exhaust, air suspension, and crystal gear selector.",
+    "status": "available",
+    "isLatest": true,
+    "rentalDailyRate": 290000,
+    "rentalWeeklyRate": 1800000,
+    "specs": {
+      "sunroof": "Panoramic Sunroof"
+    }
+  },
+  {
+    "id": "bmw-740i-2021",
+    "brand": "BMW",
+    "model": "740i M Sport Executive",
+    "year": 2021,
+    "price": 68500000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "Sedan",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "3.0L TwinPower Turbo I6",
+    "horsepower": "335 hp",
+    "drivetrain": "Rear-Wheel Drive",
+    "mileage": 31800,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Gesture Control",
+      "Soft-Close Doors",
+      "Panoramic Roof",
+      "Rear Executive Sunshades",
+      "Adaptive Air Suspension"
+    ],
+    "colors": [
+      {
+        "name": "Donington Grey",
+        "hex": "#6C7178",
+        "modelOverrideHex": "#6C7178",
+        "images": [
+          "/images/cars/bmw-740i-2021-ext-1.jpg",
+          "/images/cars/bmw-740i-2021-ext-2.jpg",
+          "/images/cars/bmw-740i-2021-int.jpg"
+        ]
+      },
+      {
+        "name": "Alpine White",
+        "hex": "#F4F4F0",
+        "modelOverrideHex": "#F4F4F0",
+        "images": []
+      },
+      {
+        "name": "Black Sapphire",
+        "hex": "#141619",
+        "modelOverrideHex": "#141619",
+        "images": []
+      },
+      {
+        "name": "Bernina Grey Amber",
+        "hex": "#7A7770",
+        "modelOverrideHex": "#7A7770",
+        "images": []
+      },
+      {
+        "name": "Phytonic Blue",
+        "hex": "#1E3A5F",
+        "modelOverrideHex": "#1E3A5F",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/bmw-740i-2021-int.jpg",
+    "images": [
+      "/images/cars/bmw-740i-2021-ext-1.jpg",
+      "/images/cars/bmw-740i-2021-ext-2.jpg",
+      "/images/cars/bmw-740i-2021-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Clean Nigerian used BMW 740i M Sport with full digital cockpit, ambient lighting, and freshly serviced suspension.",
+    "status": "available",
+    "specs": {
+      "sunroof": "Panoramic Sunroof"
+    }
+  },
+  {
+    "id": "toyota-camry-xse-2022",
+    "brand": "Toyota",
+    "model": "Camry XSE V6",
+    "year": 2022,
+    "price": 38500000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "Sedan",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "3.5L V6",
+    "horsepower": "301 hp",
+    "drivetrain": "Front-Wheel Drive",
+    "mileage": 29400,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Panoramic Glass Roof",
+      "Red Leather Interior",
+      "JBL Sound System",
+      "Apple CarPlay",
+      "Blind Spot Monitor"
+    ],
+    "colors": [
+      {
+        "name": "Wind Chill Pearl",
+        "hex": "#F0EFE9",
+        "modelOverrideHex": "#F0EFE9",
+        "images": [
+          "/images/cars/toyota-camry-xse-2022-ext-1.jpg",
+          "/images/cars/toyota-camry-xse-2022-ext-2.jpg",
+          "/images/cars/toyota-camry-xse-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Midnight Black Metallic",
+        "hex": "#16181C",
+        "modelOverrideHex": "#16181C",
+        "images": []
+      },
+      {
+        "name": "Celestial Silver",
+        "hex": "#AEB3B9",
+        "modelOverrideHex": "#AEB3B9",
+        "images": []
+      },
+      {
+        "name": "Supersonic Red",
+        "hex": "#A31924",
+        "modelOverrideHex": "#A31924",
+        "images": []
+      },
+      {
+        "name": "Predawn Grey Mica",
+        "hex": "#52565B",
+        "modelOverrideHex": "#52565B",
+        "images": []
+      },
+      {
+        "name": "Cavalry Blue",
+        "hex": "#3C556E",
+        "modelOverrideHex": "#3C556E",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/toyota-camry-xse-2022-int.jpg",
+    "images": [
+      "/images/cars/toyota-camry-xse-2022-ext-1.jpg",
+      "/images/cars/toyota-camry-xse-2022-ext-2.jpg",
+      "/images/cars/toyota-camry-xse-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Nigeria's favourite executive daily driver in spotless XSE trim with panoramic roof, push-to-start, and untouched factory paint.",
+    "status": "available",
+    "isLatest": true,
+    "rentalDailyRate": 110000,
+    "rentalWeeklyRate": 680000,
+    "specs": {
+      "sunroof": "Panoramic Sunroof",
+      "upholstery": "Leather Upholstery"
+    }
+  },
+  {
+    "id": "toyota-prado-txl-2021",
+    "brand": "Toyota",
+    "model": "Land Cruiser Prado TX-L",
+    "year": 2021,
+    "price": 79000000,
+    "negotiable": true,
+    "condition": "Nigerian Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "2.7L 4-Cylinder / 4.0L V6",
+    "horsepower": "271 hp",
+    "drivetrain": "4WD",
+    "mileage": 44200,
+    "seats": 7,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "7-Seater Leather",
+      "Sunroof",
+      "Cool Box",
+      "Reverse Camera",
+      "Dual-Zone AC"
+    ],
+    "colors": [
+      {
+        "name": "Attitude Black",
+        "hex": "#16181B",
+        "modelOverrideHex": "#16181B",
+        "images": [
+          "/images/cars/toyota-prado-txl-2021-ext-1.jpg",
+          "/images/cars/toyota-prado-txl-2021-ext-2.jpg",
+          "/images/cars/toyota-prado-txl-2021-int.jpg"
+        ]
+      },
+      {
+        "name": "White Pearl",
+        "hex": "#EFECE6",
+        "modelOverrideHex": "#EFECE6",
+        "images": []
+      },
+      {
+        "name": "Silver Metallic",
+        "hex": "#B1B5BA",
+        "modelOverrideHex": "#B1B5BA",
+        "images": []
+      },
+      {
+        "name": "Grey Metallic",
+        "hex": "#5B5F66",
+        "modelOverrideHex": "#5B5F66",
+        "images": []
+      },
+      {
+        "name": "Avant-Garde Bronze",
+        "hex": "#7D7161",
+        "modelOverrideHex": "#7D7161",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/toyota-prado-txl-2021-int.jpg",
+    "images": [
+      "/images/cars/toyota-prado-txl-2021-ext-1.jpg",
+      "/images/cars/toyota-prado-txl-2021-ext-2.jpg",
+      "/images/cars/toyota-prado-txl-2021-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "First-owner Lagos-registered Prado TX-L with complete Toyota service records. Clean interior, cold AC, ready to drive to any state.",
+    "status": "available",
+    "rentalDailyRate": 175000,
+    "rentalWeeklyRate": 1050000,
+    "specs": {
+      "sunroof": "Power Sunroof",
+      "cameras": "Rear View Camera",
+      "upholstery": "Leather Upholstery"
+    }
+  },
+  {
+    "id": "lexus-rx-350-2021",
+    "brand": "Lexus",
+    "model": "RX 350 F Sport",
+    "year": 2021,
+    "price": 62000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "3.5L V6",
+    "horsepower": "295 hp",
+    "drivetrain": "AWD",
+    "mileage": 28600,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Panoramic Sunroof",
+      "Triple-Beam LED Headlights",
+      "12.3-inch Touchscreen",
+      "Power Tailgate",
+      "Heated & Ventilated Seats"
+    ],
+    "colors": [
+      {
+        "name": "Ultra White",
+        "hex": "#F2F1EC",
+        "modelOverrideHex": "#F2F1EC",
+        "images": [
+          "/images/cars/lexus-rx-350-2021-ext-1.jpg",
+          "/images/cars/lexus-rx-350-2021-ext-2.jpg",
+          "/images/cars/lexus-rx-350-2021-int.jpg"
+        ]
+      },
+      {
+        "name": "Caviar",
+        "hex": "#18191C",
+        "modelOverrideHex": "#18191C",
+        "images": []
+      },
+      {
+        "name": "Atomic Silver",
+        "hex": "#9B9FA5",
+        "modelOverrideHex": "#9B9FA5",
+        "images": []
+      },
+      {
+        "name": "Nebula Grey Pearl",
+        "hex": "#62676D",
+        "modelOverrideHex": "#62676D",
+        "images": []
+      },
+      {
+        "name": "Matador Red Mica",
+        "hex": "#8B1B24",
+        "modelOverrideHex": "#8B1B24",
+        "images": []
+      },
+      {
+        "name": "Nightfall Mica",
+        "hex": "#1D283D",
+        "modelOverrideHex": "#1D283D",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/lexus-rx-350-2021-int.jpg",
+    "images": [
+      "/images/cars/lexus-rx-350-2021-ext-1.jpg",
+      "/images/cars/lexus-rx-350-2021-ext-2.jpg",
+      "/images/cars/lexus-rx-350-2021-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Nigerian used Lexus RX 350 F Sport with custom duty paid, clean Carfax, and smooth 8-speed transmission.",
+    "status": "available",
+    "rentalDailyRate": 160000,
+    "rentalWeeklyRate": 980000,
+    "specs": {
+      "customsDutyStatus": "Nigerian Customs Duty Paid",
+      "sunroof": "Panoramic Sunroof"
+    }
+  },
+  {
+    "id": "porsche-cayenne-turbo-2022",
+    "brand": "Porsche",
+    "model": "Cayenne Coupe GTS",
+    "year": 2022,
+    "price": 146000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "4.0L Twin-Turbo V8",
+    "horsepower": "453 hp",
+    "drivetrain": "AWD",
+    "mileage": 15900,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Sport Chrono Package",
+      "BOSE Surround Sound",
+      "Carbon Roof",
+      "Active Sport Exhaust",
+      "21-inch RS Spyder Wheels"
+    ],
+    "colors": [
+      {
+        "name": "Carrara White Metallic",
+        "hex": "#EEEDE8",
+        "modelOverrideHex": "#EEEDE8",
+        "images": [
+          "/images/cars/porsche-cayenne-turbo-2022-ext-1.jpg",
+          "/images/cars/porsche-cayenne-turbo-2022-ext-2.jpg",
+          "/images/cars/porsche-cayenne-turbo-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Jet Black Metallic",
+        "hex": "#141619",
+        "modelOverrideHex": "#141619",
+        "images": []
+      },
+      {
+        "name": "Quartzite Grey Metallic",
+        "hex": "#565A60",
+        "modelOverrideHex": "#565A60",
+        "images": []
+      },
+      {
+        "name": "Mahogany Metallic",
+        "hex": "#4D3326",
+        "modelOverrideHex": "#4D3326",
+        "images": []
+      },
+      {
+        "name": "Carmine Red",
+        "hex": "#9E1420",
+        "modelOverrideHex": "#9E1420",
+        "images": []
+      },
+      {
+        "name": "Moonlight Blue Metallic",
+        "hex": "#1C293B",
+        "modelOverrideHex": "#1C293B",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/porsche-cayenne-turbo-2022-int.jpg",
+    "images": [
+      "/images/cars/porsche-cayenne-turbo-2022-ext-1.jpg",
+      "/images/cars/porsche-cayenne-turbo-2022-ext-2.jpg",
+      "/images/cars/porsche-cayenne-turbo-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Athletic V8 Porsche Cayenne Coupe GTS with Sport Chrono and adaptive air suspension.",
+    "status": "available",
+    "specs": {}
+  },
+  {
+    "id": "land-rover-defender-110-2023",
+    "brand": "Land Rover",
+    "model": "Defender 110 X-Dynamic HSE",
+    "year": 2023,
+    "price": 134000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "engine": "3.0L Inline-6 Mild-Hybrid",
+    "horsepower": "395 hp",
+    "drivetrain": "4WD",
+    "mileage": 11200,
+    "seats": 7,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Terrain Response 2",
+      "ClearSight Rear Mirror",
+      "Meridian Sound",
+      "3D Surround Camera",
+      "Sliding Panoramic Roof"
+    ],
+    "colors": [
+      {
+        "name": "Pangea Green",
+        "hex": "#475447",
+        "modelOverrideHex": "#475447",
+        "images": [
+          "/images/cars/land-rover-defender-110-2023-ext-1.jpg",
+          "/images/cars/land-rover-defender-110-2023-ext-2.jpg",
+          "/images/cars/land-rover-defender-110-2023-int.jpg"
+        ]
+      },
+      {
+        "name": "Santorini Black",
+        "hex": "#131517",
+        "modelOverrideHex": "#131517",
+        "images": []
+      },
+      {
+        "name": "Fuji White",
+        "hex": "#F1F0EB",
+        "modelOverrideHex": "#F1F0EB",
+        "images": []
+      },
+      {
+        "name": "Gondwana Stone",
+        "hex": "#8A8275",
+        "modelOverrideHex": "#8A8275",
+        "images": []
+      },
+      {
+        "name": "Eiger Grey",
+        "hex": "#707479",
+        "modelOverrideHex": "#707479",
+        "images": []
+      },
+      {
+        "name": "Tasman Blue",
+        "hex": "#4E6375",
+        "modelOverrideHex": "#4E6375",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/land-rover-defender-110-2023-int.jpg",
+    "images": [
+      "/images/cars/land-rover-defender-110-2023-ext-1.jpg",
+      "/images/cars/land-rover-defender-110-2023-ext-2.jpg",
+      "/images/cars/land-rover-defender-110-2023-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Unstoppable capability meets refined luxury. Equipped with electronic air suspension and wading sensors.",
+    "status": "available",
+    "specs": {
+      "sunroof": "Panoramic Sunroof",
+      "cameras": "Rear View Camera"
+    }
+  },
+  {
+    "id": "audi-q8-prestige-2022",
+    "brand": "Audi",
+    "model": "Q8 55 TFSI Prestige S-Line",
+    "year": 2022,
+    "price": 94000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "engine": "3.0L Turbo V6",
+    "horsepower": "335 hp",
+    "drivetrain": "Quattro AWD",
+    "mileage": 19500,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Virtual Cockpit Plus",
+      "Bang & Olufsen 3D Audio",
+      "HD Matrix LED Headlights",
+      "Soft-Close Doors",
+      "Air Suspension"
+    ],
+    "colors": [
+      {
+        "name": "Glacier White Metallic",
+        "hex": "#EFECE6",
+        "modelOverrideHex": "#EFECE6",
+        "images": [
+          "/images/cars/audi-q8-prestige-2022-ext-1.jpg",
+          "/images/cars/audi-q8-prestige-2022-ext-2.jpg",
+          "/images/cars/audi-q8-prestige-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Mythos Black Metallic",
+        "hex": "#15171A",
+        "modelOverrideHex": "#15171A",
+        "images": []
+      },
+      {
+        "name": "Daytona Grey Pearl",
+        "hex": "#56595F",
+        "modelOverrideHex": "#56595F",
+        "images": []
+      },
+      {
+        "name": "Navarra Blue Metallic",
+        "hex": "#1B3357",
+        "modelOverrideHex": "#1B3357",
+        "images": []
+      },
+      {
+        "name": "Dragon Orange Metallic",
+        "hex": "#B54A1C",
+        "modelOverrideHex": "#B54A1C",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/audi-q8-prestige-2022-int.jpg",
+    "images": [
+      "/images/cars/audi-q8-prestige-2022-ext-1.jpg",
+      "/images/cars/audi-q8-prestige-2022-ext-2.jpg",
+      "/images/cars/audi-q8-prestige-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Sleek coupe-SUV silhouette with Quattro traction and dual-touchscreen MMI navigation.",
+    "status": "available",
+    "specs": {}
+  },
+  {
+    "id": "rolls-royce-cullinan-2021",
+    "brand": "Rolls-Royce",
+    "model": "Cullinan Black Badge",
+    "year": 2021,
+    "price": 540000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "Luxury",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "6.75L Twin-Turbo V12",
+    "horsepower": "591 hp",
+    "drivetrain": "All-Wheel Drive",
+    "mileage": 6400,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Starlight Headliner",
+      "Rear Theatre Configuration",
+      "Bespoke Audio",
+      "Champagne Cooler",
+      "Power Coach Doors"
+    ],
+    "colors": [
+      {
+        "name": "Diamond Black",
+        "hex": "#121316",
+        "modelOverrideHex": "#121316",
+        "images": [
+          "/images/cars/rolls-royce-cullinan-2021-ext-1.jpg",
+          "/images/cars/rolls-royce-cullinan-2021-ext-2.jpg",
+          "/images/cars/rolls-royce-cullinan-2021-int.jpg"
+        ]
+      },
+      {
+        "name": "Tempest Grey",
+        "hex": "#676B70",
+        "modelOverrideHex": "#676B70",
+        "images": []
+      },
+      {
+        "name": "English White",
+        "hex": "#F3F2EC",
+        "modelOverrideHex": "#F3F2EC",
+        "images": []
+      },
+      {
+        "name": "Midnight Sapphire",
+        "hex": "#162038",
+        "modelOverrideHex": "#162038",
+        "images": []
+      },
+      {
+        "name": "Bohemian Red",
+        "hex": "#6B1922",
+        "modelOverrideHex": "#6B1922",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/rolls-royce-cullinan-2021-int.jpg",
+    "images": [
+      "/images/cars/rolls-royce-cullinan-2021-ext-1.jpg",
+      "/images/cars/rolls-royce-cullinan-2021-ext-2.jpg",
+      "/images/cars/rolls-royce-cullinan-2021-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Bespoke Black Badge Cullinan available for private showroom viewing by appointment or insured enclosed delivery across Nigeria.",
+    "status": "available",
+    "specs": {}
+  },
+  {
+    "id": "bentley-bentayga-2022",
+    "brand": "Bentley",
+    "model": "Bentayga Azure V8",
+    "year": 2022,
+    "price": 295000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "Luxury",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "4.0L Twin-Turbo V8",
+    "horsepower": "542 hp",
+    "drivetrain": "AWD",
+    "mileage": 10300,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Naim for Bentley Audio",
+      "Diamond Quilted Leather",
+      "Rotating Display",
+      "Panoramic Roof",
+      "Bentley Dynamic Ride"
+    ],
+    "colors": [
+      {
+        "name": "Verdant Green",
+        "hex": "#1D382B",
+        "modelOverrideHex": "#1D382B",
+        "images": [
+          "/images/cars/bentley-bentayga-2022-ext-1.jpg",
+          "/images/cars/bentley-bentayga-2022-ext-2.jpg",
+          "/images/cars/bentley-bentayga-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Onyx",
+        "hex": "#17181B",
+        "modelOverrideHex": "#17181B",
+        "images": []
+      },
+      {
+        "name": "Glacier White",
+        "hex": "#F2F1EC",
+        "modelOverrideHex": "#F2F1EC",
+        "images": []
+      },
+      {
+        "name": "Bronze",
+        "hex": "#7E6748",
+        "modelOverrideHex": "#7E6748",
+        "images": []
+      },
+      {
+        "name": "Cambrian Grey",
+        "hex": "#6B6E73",
+        "modelOverrideHex": "#6B6E73",
+        "images": []
+      },
+      {
+        "name": "Cricket Ball Red",
+        "hex": "#691B24",
+        "modelOverrideHex": "#691B24",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/bentley-bentayga-2022-int.jpg",
+    "images": [
+      "/images/cars/bentley-bentayga-2022-ext-1.jpg",
+      "/images/cars/bentley-bentayga-2022-ext-2.jpg",
+      "/images/cars/bentley-bentayga-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Hand-crafted British luxury SUV with Naim sound, walnut veneers, and effortless twin-turbo V8 acceleration.",
+    "status": "available",
+    "specs": {
+      "sunroof": "Panoramic Sunroof",
+      "upholstery": "Leather Upholstery"
+    }
+  },
+  {
+    "id": "honda-accord-touring-2022",
+    "brand": "Honda",
+    "model": "Accord Touring 2.0T",
+    "year": 2022,
+    "price": 34500000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "Sedan",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "2.0L VTEC Turbo",
+    "horsepower": "252 hp",
+    "drivetrain": "Front-Wheel Drive",
+    "mileage": 31200,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Head-Up Display",
+      "Wireless CarPlay",
+      "Sunroof",
+      "Adaptive Damper System",
+      "Honda Sensing"
+    ],
+    "colors": [
+      {
+        "name": "Platinum White Pearl",
+        "hex": "#F1F0EA",
+        "modelOverrideHex": "#F1F0EA",
+        "images": [
+          "/images/cars/honda-accord-touring-2022-ext-1.jpg",
+          "/images/cars/honda-accord-touring-2022-ext-2.jpg",
+          "/images/cars/honda-accord-touring-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Crystal Black Pearl",
+        "hex": "#16181B",
+        "modelOverrideHex": "#16181B",
+        "images": []
+      },
+      {
+        "name": "Sonic Grey Pearl",
+        "hex": "#6F767D",
+        "modelOverrideHex": "#6F767D",
+        "images": []
+      },
+      {
+        "name": "Radiant Red Metallic",
+        "hex": "#9E1B24",
+        "modelOverrideHex": "#9E1B24",
+        "images": []
+      },
+      {
+        "name": "Still Night Pearl",
+        "hex": "#1C355E",
+        "modelOverrideHex": "#1C355E",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/honda-accord-touring-2022-int.jpg",
+    "images": [
+      "/images/cars/honda-accord-touring-2022-ext-1.jpg",
+      "/images/cars/honda-accord-touring-2022-ext-2.jpg",
+      "/images/cars/honda-accord-touring-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Punchy 2.0T 10-speed Accord Touring with verified Nigerian used history and pristine AC.",
+    "status": "available",
+    "rentalDailyRate": 95000,
+    "rentalWeeklyRate": 590000,
+    "specs": {
+      "sunroof": "Power Sunroof"
+    }
+  },
+  {
+    "id": "hyundai-palisade-calligraphy-2023",
+    "brand": "Hyundai",
+    "model": "Palisade Calligraphy AWD",
+    "year": 2023,
+    "price": 69500000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "3.8L V6 GDI",
+    "horsepower": "291 hp",
+    "drivetrain": "HTRAC AWD",
+    "mileage": 16800,
+    "seats": 7,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Quilted Nappa Leather",
+      "Dual Sunroof",
+      "Ergo-Motion Driver Seat",
+      "360° Blind-Spot View",
+      "Harman Kardon Audio"
+    ],
+    "colors": [
+      {
+        "name": "Abyss Black Pearl",
+        "hex": "#16181B",
+        "modelOverrideHex": "#16181B",
+        "images": [
+          "/images/cars/hyundai-palisade-calligraphy-2023-ext-1.jpg",
+          "/images/cars/hyundai-palisade-calligraphy-2023-ext-2.jpg",
+          "/images/cars/hyundai-palisade-calligraphy-2023-int.jpg"
+        ]
+      },
+      {
+        "name": "Hyper White",
+        "hex": "#F2F1EC",
+        "modelOverrideHex": "#F2F1EC",
+        "images": []
+      },
+      {
+        "name": "Robust Emerald",
+        "hex": "#1D3C34",
+        "modelOverrideHex": "#1D3C34",
+        "images": []
+      },
+      {
+        "name": "Steel Graphite",
+        "hex": "#5A5E63",
+        "modelOverrideHex": "#5A5E63",
+        "images": []
+      },
+      {
+        "name": "Moonlight Cloud",
+        "hex": "#203048",
+        "modelOverrideHex": "#203048",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/hyundai-palisade-calligraphy-2023-int.jpg",
+    "images": [
+      "/images/cars/hyundai-palisade-calligraphy-2023-ext-1.jpg",
+      "/images/cars/hyundai-palisade-calligraphy-2023-ext-2.jpg",
+      "/images/cars/hyundai-palisade-calligraphy-2023-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Top-spec Palisade Calligraphy with 2nd-row captain seats, quilted leather, and zero mechanical issues.",
+    "status": "available",
+    "specs": {
+      "sunroof": "Power Sunroof",
+      "cameras": "360° Surround View Camera",
+      "upholstery": "Nappa Leather"
+    }
+  },
+  {
+    "id": "kia-telluride-sx-2023",
+    "brand": "Kia",
+    "model": "Telluride SX Prestige X-Pro",
+    "year": 2023,
+    "price": 66000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "3.8L V6",
+    "horsepower": "291 hp",
+    "drivetrain": "AWD",
+    "mileage": 18200,
+    "seats": 7,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Dual Panoramic Displays",
+      "Harman Kardon Audio",
+      "Dual Sunroof",
+      "Tow Mode",
+      "Head-Up Display"
+    ],
+    "colors": [
+      {
+        "name": "Jungle Wood Green",
+        "hex": "#354538",
+        "modelOverrideHex": "#354538",
+        "images": [
+          "/images/cars/kia-telluride-sx-2023-ext-1.jpg",
+          "/images/cars/kia-telluride-sx-2023-ext-2.jpg",
+          "/images/cars/kia-telluride-sx-2023-int.jpg"
+        ]
+      },
+      {
+        "name": "Ebony Black",
+        "hex": "#15171A",
+        "modelOverrideHex": "#15171A",
+        "images": []
+      },
+      {
+        "name": "Glacial White Pearl",
+        "hex": "#F1F0EA",
+        "modelOverrideHex": "#F1F0EA",
+        "images": []
+      },
+      {
+        "name": "Gravity Grey",
+        "hex": "#585C62",
+        "modelOverrideHex": "#585C62",
+        "images": []
+      },
+      {
+        "name": "Wolf Grey",
+        "hex": "#8B9094",
+        "modelOverrideHex": "#8B9094",
+        "images": []
+      },
+      {
+        "name": "Dawning Red",
+        "hex": "#881D25",
+        "modelOverrideHex": "#881D25",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/kia-telluride-sx-2023-int.jpg",
+    "images": [
+      "/images/cars/kia-telluride-sx-2023-ext-1.jpg",
+      "/images/cars/kia-telluride-sx-2023-ext-2.jpg",
+      "/images/cars/kia-telluride-sx-2023-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Spacious 3-row family SUV with rugged X-Pro styling and refined interior technology.",
+    "status": "available",
+    "specs": {
+      "sunroof": "Panoramic Sunroof"
+    }
+  },
+  {
+    "id": "ford-explorer-st-2022",
+    "brand": "Ford",
+    "model": "Explorer ST 4WD",
+    "year": 2022,
+    "price": 56500000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "3.0L EcoBoost Twin-Turbo V6",
+    "horsepower": "400 hp",
+    "drivetrain": "Intelligent 4WD",
+    "mileage": 27400,
+    "seats": 7,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "B&O 14-Speaker Sound",
+      "Twin-Panel Moonroof",
+      "10.1-inch Portrait Screen",
+      "Massaging Front Seats",
+      "360° Camera"
+    ],
+    "colors": [
+      {
+        "name": "Agate Black",
+        "hex": "#15171A",
+        "modelOverrideHex": "#15171A",
+        "images": [
+          "/images/cars/ford-explorer-st-2022-ext-1.jpg",
+          "/images/cars/ford-explorer-st-2022-ext-2.jpg",
+          "/images/cars/ford-explorer-st-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Star White",
+        "hex": "#F1F0EB",
+        "modelOverrideHex": "#F1F0EB",
+        "images": []
+      },
+      {
+        "name": "Carbonized Grey",
+        "hex": "#5B5F66",
+        "modelOverrideHex": "#5B5F66",
+        "images": []
+      },
+      {
+        "name": "Rapid Red Metallic",
+        "hex": "#961A22",
+        "modelOverrideHex": "#961A22",
+        "images": []
+      },
+      {
+        "name": "Atlas Blue",
+        "hex": "#1D3D6B",
+        "modelOverrideHex": "#1D3D6B",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/ford-explorer-st-2022-int.jpg",
+    "images": [
+      "/images/cars/ford-explorer-st-2022-ext-1.jpg",
+      "/images/cars/ford-explorer-st-2022-ext-2.jpg",
+      "/images/cars/ford-explorer-st-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "400-horsepower performance family SUV in spotless condition with full customs papers.",
+    "status": "available",
+    "specs": {
+      "customsDutyStatus": "Nigerian Customs Duty Paid",
+      "cameras": "360° Surround View Camera"
+    }
+  },
+  {
+    "id": "chevrolet-tahoe-high-country-2022",
+    "brand": "Chevrolet",
+    "model": "Tahoe High Country 4WD",
+    "year": 2022,
+    "price": 102000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "6.2L EcoTec3 V8",
+    "horsepower": "420 hp",
+    "drivetrain": "4WD",
+    "mileage": 22500,
+    "seats": 7,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Magnetic Ride Control",
+      "Air Ride Adaptive Suspension",
+      "Bose 10-Speaker Centerpoint",
+      "Rear Media Screens",
+      "Power Retractable Steps"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#131518",
+        "modelOverrideHex": "#131518",
+        "images": [
+          "/images/cars/chevrolet-tahoe-high-country-2022-ext-1.jpg",
+          "/images/cars/chevrolet-tahoe-high-country-2022-ext-2.jpg",
+          "/images/cars/chevrolet-tahoe-high-country-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Iridescent Pearl Tricoat",
+        "hex": "#F2F0EA",
+        "modelOverrideHex": "#F2F0EA",
+        "images": []
+      },
+      {
+        "name": "Dark Ash Metallic",
+        "hex": "#4D5156",
+        "modelOverrideHex": "#4D5156",
+        "images": []
+      },
+      {
+        "name": "Satin Steel Metallic",
+        "hex": "#8C9197",
+        "modelOverrideHex": "#8C9197",
+        "images": []
+      },
+      {
+        "name": "Cherry Red Tintcoat",
+        "hex": "#7B1922",
+        "modelOverrideHex": "#7B1922",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/chevrolet-tahoe-high-country-2022-int.jpg",
+    "images": [
+      "/images/cars/chevrolet-tahoe-high-country-2022-ext-1.jpg",
+      "/images/cars/chevrolet-tahoe-high-country-2022-ext-2.jpg",
+      "/images/cars/chevrolet-tahoe-high-country-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Commanding American full-size SUV with 6.2L V8 power, adaptive air suspension, and VIP second-row legroom.",
+    "status": "available",
+    "specs": {}
+  },
+  {
+    "id": "nissan-patrol-le-2022",
+    "brand": "Nissan",
+    "model": "Patrol LE Platinum V8",
+    "year": 2022,
+    "price": 96000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "5.6L V8",
+    "horsepower": "400 hp",
+    "drivetrain": "All-Mode 4x4",
+    "mileage": 19800,
+    "seats": 8,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Quilted Tan Leather",
+      "Bose 13-Speaker Audio",
+      "Hydraulic Body Motion Control",
+      "Dual Rear Screens",
+      "Cool Box"
+    ],
+    "colors": [
+      {
+        "name": "Pearl White",
+        "hex": "#F2F1EC",
+        "modelOverrideHex": "#F2F1EC",
+        "images": [
+          "/images/cars/nissan-patrol-le-2022-ext-1.jpg",
+          "/images/cars/nissan-patrol-le-2022-ext-2.jpg",
+          "/images/cars/nissan-patrol-le-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Magnetic Black",
+        "hex": "#16181B",
+        "modelOverrideHex": "#16181B",
+        "images": []
+      },
+      {
+        "name": "Gun Metallic",
+        "hex": "#565A60",
+        "modelOverrideHex": "#565A60",
+        "images": []
+      },
+      {
+        "name": "Champagne Quartz",
+        "hex": "#9E8D75",
+        "modelOverrideHex": "#9E8D75",
+        "images": []
+      },
+      {
+        "name": "Hermosa Blue",
+        "hex": "#1E304B",
+        "modelOverrideHex": "#1E304B",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/nissan-patrol-le-2022-int.jpg",
+    "images": [
+      "/images/cars/nissan-patrol-le-2022-ext-1.jpg",
+      "/images/cars/nissan-patrol-le-2022-ext-2.jpg",
+      "/images/cars/nissan-patrol-le-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Ultra-durable GCC-spec Nissan Patrol V8 Platinum built for executive comfort and rugged Nigerian highways.",
+    "status": "available",
+    "specs": {
+      "upholstery": "Leather Upholstery"
+    }
+  },
+  {
+    "id": "volkswagen-touareg-rline-2021",
+    "brand": "Volkswagen",
+    "model": "Touareg R-Line 4Motion",
+    "year": 2021,
+    "price": 54000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "3.0L V6 TSI",
+    "horsepower": "335 hp",
+    "drivetrain": "4MOTION AWD",
+    "mileage": 34500,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Innovision 15-inch Cockpit",
+      "Dynaudio Consequence",
+      "Air Suspension",
+      "Panoramic Sunroof",
+      "IQ.Light Matrix LEDs"
+    ],
+    "colors": [
+      {
+        "name": "Silicon Grey",
+        "hex": "#696D73",
+        "modelOverrideHex": "#696D73",
+        "images": [
+          "/images/cars/volkswagen-touareg-rline-2021-ext-1.jpg",
+          "/images/cars/volkswagen-touareg-rline-2021-ext-2.jpg",
+          "/images/cars/volkswagen-touareg-rline-2021-int.jpg"
+        ]
+      },
+      {
+        "name": "Deep Black Pearl",
+        "hex": "#141619",
+        "modelOverrideHex": "#141619",
+        "images": []
+      },
+      {
+        "name": "Pure White",
+        "hex": "#F2F2EE",
+        "modelOverrideHex": "#F2F2EE",
+        "images": []
+      },
+      {
+        "name": "Aquamarine Blue",
+        "hex": "#233C57",
+        "modelOverrideHex": "#233C57",
+        "images": []
+      },
+      {
+        "name": "Antimony Silver",
+        "hex": "#AEB3B9",
+        "modelOverrideHex": "#AEB3B9",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/volkswagen-touareg-rline-2021-int.jpg",
+    "images": [
+      "/images/cars/volkswagen-touareg-rline-2021-ext-1.jpg",
+      "/images/cars/volkswagen-touareg-rline-2021-ext-2.jpg",
+      "/images/cars/volkswagen-touareg-rline-2021-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "German-engineered Touareg R-Line sharing the Porsche Cayenne chassis with a vast 15-inch Innovision glass cockpit.",
+    "status": "available",
+    "specs": {
+      "sunroof": "Panoramic Sunroof"
+    }
+  },
+  {
+    "id": "infiniti-qx80-sensory-2022",
+    "brand": "Infiniti",
+    "model": "QX80 Sensory 4WD",
+    "year": 2022,
+    "price": 84000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "5.6L V8",
+    "horsepower": "400 hp",
+    "drivetrain": "All-Mode 4WD",
+    "mileage": 23000,
+    "seats": 7,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Semi-Aniline Quilted Leather",
+      "Bose Performance 17-Speaker",
+      "Smart Rear View Mirror",
+      "Hydraulic Body Control",
+      "22-inch Alloys"
+    ],
+    "colors": [
+      {
+        "name": "Anthracite Grey",
+        "hex": "#54585E",
+        "modelOverrideHex": "#54585E",
+        "images": [
+          "/images/cars/infiniti-qx80-sensory-2022-ext-1.jpg",
+          "/images/cars/infiniti-qx80-sensory-2022-ext-2.jpg",
+          "/images/cars/infiniti-qx80-sensory-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Mineral Black",
+        "hex": "#15171A",
+        "modelOverrideHex": "#15171A",
+        "images": []
+      },
+      {
+        "name": "Moonstone White",
+        "hex": "#F1F0EA",
+        "modelOverrideHex": "#F1F0EA",
+        "images": []
+      },
+      {
+        "name": "Hermosa Blue",
+        "hex": "#1C2E4A",
+        "modelOverrideHex": "#1C2E4A",
+        "images": []
+      },
+      {
+        "name": "Coulis Red",
+        "hex": "#8B1B24",
+        "modelOverrideHex": "#8B1B24",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/infiniti-qx80-sensory-2022-int.jpg",
+    "images": [
+      "/images/cars/infiniti-qx80-sensory-2022-ext-1.jpg",
+      "/images/cars/infiniti-qx80-sensory-2022-ext-2.jpg",
+      "/images/cars/infiniti-qx80-sensory-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Plush V8 luxury cruiser with redesigned widescreen infotainment and commanding road presence.",
+    "status": "available",
+    "specs": {
+      "upholstery": "Leather Upholstery"
+    }
+  },
+  {
+    "id": "peugeot-3008-gt-2022",
+    "brand": "Peugeot",
+    "model": "3008 GT Line",
+    "year": 2022,
+    "price": 32500000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "1.6L PureTech Turbo",
+    "horsepower": "180 hp",
+    "drivetrain": "Front-Wheel Drive",
+    "mileage": 26100,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "i-Cockpit Digital Cluster",
+      "Focal Premium Audio",
+      "Panoramic Sunroof",
+      "360° Camera",
+      "Nappa Mist Leather"
+    ],
+    "colors": [
+      {
+        "name": "Pearl White",
+        "hex": "#F2F1EC",
+        "modelOverrideHex": "#F2F1EC",
+        "images": [
+          "/images/cars/peugeot-3008-gt-2022-ext-1.jpg",
+          "/images/cars/peugeot-3008-gt-2022-ext-2.jpg",
+          "/images/cars/peugeot-3008-gt-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Nera Black",
+        "hex": "#16181B",
+        "modelOverrideHex": "#16181B",
+        "images": []
+      },
+      {
+        "name": "Cumulus Grey",
+        "hex": "#7A7E85",
+        "modelOverrideHex": "#7A7E85",
+        "images": []
+      },
+      {
+        "name": "Vertigo Blue",
+        "hex": "#1D4478",
+        "modelOverrideHex": "#1D4478",
+        "images": []
+      },
+      {
+        "name": "Ultimate Red",
+        "hex": "#9E1B24",
+        "modelOverrideHex": "#9E1B24",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/peugeot-3008-gt-2022-int.jpg",
+    "images": [
+      "/images/cars/peugeot-3008-gt-2022-ext-1.jpg",
+      "/images/cars/peugeot-3008-gt-2022-ext-2.jpg",
+      "/images/cars/peugeot-3008-gt-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Fuel-efficient compact European SUV with sculpted frameless grille and futuristic i-Cockpit interior.",
+    "status": "available",
+    "specs": {
+      "sunroof": "Panoramic Sunroof",
+      "cameras": "360° Surround View Camera",
+      "upholstery": "Nappa Leather"
+    }
+  },
+  {
+    "id": "mitsubishi-pajero-sport-2022",
+    "brand": "Mitsubishi",
+    "model": "Pajero Sport Exceed 4WD",
+    "year": 2022,
+    "price": 46500000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "engine": "2.4L MIVEC Turbo Diesel",
+    "horsepower": "178 hp",
+    "drivetrain": "Super Select 4WD-II",
+    "mileage": 28900,
+    "seats": 7,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Super Select 4WD",
+      "Paddle Shifters",
+      "Electric Tailgate",
+      "Dual-Zone Climate",
+      "360° Monitor"
+    ],
+    "colors": [
+      {
+        "name": "Sterling Silver",
+        "hex": "#B0B4BA",
+        "modelOverrideHex": "#B0B4BA",
+        "images": [
+          "/images/cars/mitsubishi-pajero-sport-2022-ext-1.jpg",
+          "/images/cars/mitsubishi-pajero-sport-2022-ext-2.jpg",
+          "/images/cars/mitsubishi-pajero-sport-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Jet Black Mica",
+        "hex": "#16181B",
+        "modelOverrideHex": "#16181B",
+        "images": []
+      },
+      {
+        "name": "White Diamond",
+        "hex": "#F1F0EA",
+        "modelOverrideHex": "#F1F0EA",
+        "images": []
+      },
+      {
+        "name": "Graphite Grey",
+        "hex": "#585C62",
+        "modelOverrideHex": "#585C62",
+        "images": []
+      },
+      {
+        "name": "Deep Bronze",
+        "hex": "#4D3B2C",
+        "modelOverrideHex": "#4D3B2C",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/mitsubishi-pajero-sport-2022-int.jpg",
+    "images": [
+      "/images/cars/mitsubishi-pajero-sport-2022-ext-1.jpg",
+      "/images/cars/mitsubishi-pajero-sport-2022-ext-2.jpg",
+      "/images/cars/mitsubishi-pajero-sport-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Rugged 7-seater diesel SUV engineered for tough inter-state journeys and exceptional fuel range.",
+    "status": "available",
+    "specs": {
+      "cameras": "360° Surround View Camera"
+    }
+  },
+  {
+    "id": "mercedes-g63-amg-2022",
+    "brand": "Mercedes-Benz",
+    "model": "AMG G 63",
+    "year": 2022,
+    "price": 325000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "4.0L Handcrafted Biturbo V8",
+    "horsepower": "577 hp",
+    "drivetrain": "4MATIC AWD",
+    "mileage": 11400,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "G Manufaktur Nappa Interior",
+      "Burmester Sound",
+      "Side-Exit AMG Exhaust",
+      "3 Differential Locks",
+      "22-inch Forged Cross-Spoke"
+    ],
+    "colors": [
+      {
+        "name": "Obsidian Black",
+        "hex": "#131518",
+        "modelOverrideHex": "#131518",
+        "images": [
+          "/images/cars/mercedes-g63-amg-2022-ext-1.jpg",
+          "/images/cars/mercedes-g63-amg-2022-ext-2.jpg",
+          "/images/cars/mercedes-g63-amg-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Polar White",
+        "hex": "#F2F1EC",
+        "modelOverrideHex": "#F2F1EC",
+        "images": []
+      },
+      {
+        "name": "Emerald Green",
+        "hex": "#1B3B2B",
+        "modelOverrideHex": "#1B3B2B",
+        "images": []
+      },
+      {
+        "name": "Selenite Grey",
+        "hex": "#5E6369",
+        "modelOverrideHex": "#5E6369",
+        "images": []
+      },
+      {
+        "name": "Jupiter Red",
+        "hex": "#9E1822",
+        "modelOverrideHex": "#9E1822",
+        "images": []
+      },
+      {
+        "name": "Brilliant Blue",
+        "hex": "#1D3B68",
+        "modelOverrideHex": "#1D3B68",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/mercedes-g63-amg-2022-int.jpg",
+    "images": [
+      "/images/cars/mercedes-g63-amg-2022-ext-1.jpg",
+      "/images/cars/mercedes-g63-amg-2022-ext-2.jpg",
+      "/images/cars/mercedes-g63-amg-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Iconic AMG G 63 in Obsidian Black with saddle-brown diamond-stitched Nappa interior. Available for showroom inspection.",
+    "status": "available",
+    "rentalDailyRate": 650000,
+    "rentalWeeklyRate": 3900000,
+    "specs": {
+      "upholstery": "Nappa Leather"
+    }
+  },
+  {
+    "id": "lexus-es-350-2022",
+    "brand": "Lexus",
+    "model": "ES 350 Ultra Luxury",
+    "year": 2022,
+    "price": 53500000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "Sedan",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "3.5L V6",
+    "horsepower": "302 hp",
+    "drivetrain": "Front-Wheel Drive",
+    "mileage": 23800,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Mark Levinson Audio",
+      "Semi-Aniline Leather",
+      "Panoramic Glass Roof",
+      "Rear Power Sunshade",
+      "Head-Up Display"
+    ],
+    "colors": [
+      {
+        "name": "Eminent White Pearl",
+        "hex": "#F2F1EC",
+        "modelOverrideHex": "#F2F1EC",
+        "images": [
+          "/images/cars/lexus-es-350-2022-ext-1.jpg",
+          "/images/cars/lexus-es-350-2022-ext-2.jpg",
+          "/images/cars/lexus-es-350-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Caviar",
+        "hex": "#18191C",
+        "modelOverrideHex": "#18191C",
+        "images": []
+      },
+      {
+        "name": "Atomic Silver",
+        "hex": "#9B9FA5",
+        "modelOverrideHex": "#9B9FA5",
+        "images": []
+      },
+      {
+        "name": "Iridium",
+        "hex": "#B5B9BF",
+        "modelOverrideHex": "#B5B9BF",
+        "images": []
+      },
+      {
+        "name": "Matador Red Mica",
+        "hex": "#8B1B24",
+        "modelOverrideHex": "#8B1B24",
+        "images": []
+      },
+      {
+        "name": "Sunlit Green",
+        "hex": "#354A3F",
+        "modelOverrideHex": "#354A3F",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/lexus-es-350-2022-int.jpg",
+    "images": [
+      "/images/cars/lexus-es-350-2022-ext-1.jpg",
+      "/images/cars/lexus-es-350-2022-ext-2.jpg",
+      "/images/cars/lexus-es-350-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Whisper-quiet Nigerian used Lexus ES 350 Ultra Luxury with verified Carfax and customs papers.",
+    "status": "available",
+    "rentalDailyRate": 135000,
+    "rentalWeeklyRate": 820000,
+    "specs": {
+      "customsDutyStatus": "Nigerian Customs Duty Paid",
+      "sunroof": "Panoramic Sunroof",
+      "upholstery": "Leather Upholstery"
+    }
+  },
+  {
+    "id": "toyota-hilux-adventure-2023",
+    "brand": "Toyota",
+    "model": "Hilux Adventure 4x4 Double Cab",
+    "year": 2023,
+    "price": 74000000,
+    "negotiable": false,
+    "condition": "Brand New",
+    "bodyType": "Pickup",
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "engine": "2.8L Turbo Diesel",
+    "horsepower": "201 hp",
+    "drivetrain": "4x4 Low/High",
+    "mileage": 85,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "360° Camera",
+      "Bed Liner & Roll Bar",
+      "JBL Audio",
+      "Differential Lock",
+      "Leather Seats"
+    ],
+    "colors": [
+      {
+        "name": "Attitude Black",
+        "hex": "#16181B",
+        "modelOverrideHex": "#16181B",
+        "images": [
+          "/images/cars/toyota-hilux-adventure-2023-ext-1.jpg",
+          "/images/cars/toyota-hilux-adventure-2023-ext-2.jpg",
+          "/images/cars/toyota-hilux-adventure-2023-int.jpg"
+        ]
+      },
+      {
+        "name": "Super White",
+        "hex": "#F3F2EE",
+        "modelOverrideHex": "#F3F2EE",
+        "images": []
+      },
+      {
+        "name": "Silver Metallic",
+        "hex": "#B2B6BC",
+        "modelOverrideHex": "#B2B6BC",
+        "images": []
+      },
+      {
+        "name": "Emotional Red",
+        "hex": "#A31922",
+        "modelOverrideHex": "#A31922",
+        "images": []
+      },
+      {
+        "name": "Oxide Bronze",
+        "hex": "#6B5A45",
+        "modelOverrideHex": "#6B5A45",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/toyota-hilux-adventure-2023-int.jpg",
+    "images": [
+      "/images/cars/toyota-hilux-adventure-2023-ext-1.jpg",
+      "/images/cars/toyota-hilux-adventure-2023-ext-2.jpg",
+      "/images/cars/toyota-hilux-adventure-2023-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Brand new 2023 Hilux Adventure 2.8L Turbo Diesel ready for corporate fleet, security escort, or upcountry projects.",
+    "status": "available",
+    "specs": {
+      "cameras": "360° Surround View Camera",
+      "upholstery": "Leather Upholstery"
+    }
+  },
+  {
+    "id": "mercedes-c300-amg-2022",
+    "brand": "Mercedes-Benz",
+    "model": "C 300 AMG Line",
+    "year": 2022,
+    "price": 69000000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "Sedan",
+    "fuel": "Hybrid",
+    "transmission": "Automatic",
+    "engine": "2.0L Turbo Mild-Hybrid",
+    "horsepower": "255 hp",
+    "drivetrain": "Rear-Wheel Drive",
+    "mileage": 17900,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "11.9-inch Portrait MBUX",
+      "Panoramic Sunroof",
+      "Burmester Sound",
+      "64-Colour Ambient Light",
+      "Wireless Charging"
+    ],
+    "colors": [
+      {
+        "name": "Graphite Grey",
+        "hex": "#4B4F55",
+        "modelOverrideHex": "#4B4F55",
+        "images": [
+          "/images/cars/mercedes-c300-amg-2022-ext-1.jpg",
+          "/images/cars/mercedes-c300-amg-2022-ext-2.jpg",
+          "/images/cars/mercedes-c300-amg-2022-int.jpg"
+        ]
+      },
+      {
+        "name": "Polar White",
+        "hex": "#F2F1EC",
+        "modelOverrideHex": "#F2F1EC",
+        "images": []
+      },
+      {
+        "name": "Obsidian Black",
+        "hex": "#141619",
+        "modelOverrideHex": "#141619",
+        "images": []
+      },
+      {
+        "name": "Spectral Blue",
+        "hex": "#1B3963",
+        "modelOverrideHex": "#1B3963",
+        "images": []
+      },
+      {
+        "name": "Cardinal Red",
+        "hex": "#941A23",
+        "modelOverrideHex": "#941A23",
+        "images": []
+      },
+      {
+        "name": "Mojave Silver",
+        "hex": "#A89F91",
+        "modelOverrideHex": "#A89F91",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/mercedes-c300-amg-2022-int.jpg",
+    "images": [
+      "/images/cars/mercedes-c300-amg-2022-ext-1.jpg",
+      "/images/cars/mercedes-c300-amg-2022-ext-2.jpg",
+      "/images/cars/mercedes-c300-amg-2022-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "W206 generation C 300 AMG Line with baby S-Class interior screen and crisp fuel efficiency.",
+    "status": "available",
+    "rentalDailyRate": 150000,
+    "rentalWeeklyRate": 900000,
+    "specs": {
+      "sunroof": "Panoramic Sunroof"
+    }
+  },
+  {
+    "id": "range-rover-velar-r-dynamic-2021",
+    "brand": "Range Rover",
+    "model": "Velar R-Dynamic S",
+    "year": 2021,
+    "price": 76500000,
+    "negotiable": true,
+    "condition": "Foreign Used",
+    "bodyType": "SUV",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "engine": "2.0L Ingenium Turbo",
+    "horsepower": "247 hp",
+    "drivetrain": "AWD",
+    "mileage": 25300,
+    "seats": 5,
+    "location": "24 Unity Road, Ikeja, Lagos",
+    "features": [
+      "Flush Door Handles",
+      "Dual Touch Pro Duo",
+      "Meridian Audio",
+      "Panoramic Glass Roof",
+      "Matrix LED Headlamps"
+    ],
+    "colors": [
+      {
+        "name": "Santorini Black",
+        "hex": "#141619",
+        "modelOverrideHex": "#141619",
+        "images": [
+          "/images/cars/range-rover-velar-r-dynamic-2021-ext-1.jpg",
+          "/images/cars/range-rover-velar-r-dynamic-2021-ext-2.jpg",
+          "/images/cars/range-rover-velar-r-dynamic-2021-int.jpg"
+        ]
+      },
+      {
+        "name": "Fuji White",
+        "hex": "#F2F1EC",
+        "modelOverrideHex": "#F2F1EC",
+        "images": []
+      },
+      {
+        "name": "Belgravia Green",
+        "hex": "#1E3629",
+        "modelOverrideHex": "#1E3629",
+        "images": []
+      },
+      {
+        "name": "Eiger Grey",
+        "hex": "#71757A",
+        "modelOverrideHex": "#71757A",
+        "images": []
+      },
+      {
+        "name": "Byron Blue",
+        "hex": "#3C556A",
+        "modelOverrideHex": "#3C556A",
+        "images": []
+      },
+      {
+        "name": "Firenze Red",
+        "hex": "#8A1C22",
+        "modelOverrideHex": "#8A1C22",
+        "images": []
+      }
+    ],
+    "model3d": "",
+    "interior360": "/images/cars/range-rover-velar-r-dynamic-2021-int.jpg",
+    "images": [
+      "/images/cars/range-rover-velar-r-dynamic-2021-ext-1.jpg",
+      "/images/cars/range-rover-velar-r-dynamic-2021-ext-2.jpg",
+      "/images/cars/range-rover-velar-r-dynamic-2021-int.jpg"
+    ],
+    "videoUrl": "",
+    "description": "Award-winning Velar R-Dynamic in Santorini Black with flush door handles and spotless customs clearance.",
+    "status": "sold",
+    "specs": {
+      "customsDutyStatus": "Nigerian Customs Duty Paid",
+      "sunroof": "Panoramic Sunroof"
+    }
+  }
+]
